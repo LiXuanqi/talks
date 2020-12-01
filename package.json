@@ -1,0 +1,11 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LiXuanqi/talks.git",
+  "author": "LiXuanqi <lixuanqi1995@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^4.2.0"
+  }
+}
